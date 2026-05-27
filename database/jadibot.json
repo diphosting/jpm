@@ -1,0 +1,18 @@
+[
+  {
+    "number": "6285718088589",
+    "code": "PT3WCZC1",
+    "status": "waiting_login",
+    "expire": 1780088447136,
+    "lastSeen": 1779914897678,
+    "reason": null
+  },
+  {
+    "number": "6285718088589",
+    "code": "X37N3XJV",
+    "status": "pending",
+    "expire": 1780088447136,
+    "lastSeen": 1779915647136,
+    "reason": null
+  }
+]
